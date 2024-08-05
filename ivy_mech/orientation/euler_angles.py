@@ -1,4 +1,5 @@
 """Collection of Rotation Conversion Functions to Euler Angles Format"""
+
 # global
 import ivy
 import math

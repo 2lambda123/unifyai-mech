@@ -1,4 +1,5 @@
 """test data for quaternion functions"""
+
 # global
 import numpy as np
 
